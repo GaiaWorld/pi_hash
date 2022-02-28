@@ -1,6 +1,6 @@
 [package]
 name = "pi_hash"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["suncy <530739162@qq.com>"]
 edition = "2021"
 description = "Provide unified hasher, HashMap and HashSet, The hash algorithm used can be determined by compiling conditions."
